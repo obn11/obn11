@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oliver!
-- 🌱 I’m currently learning Computer Science and Programming
-- Feel free to contact me at obn11@uclive.ac.nz!
+- 🌱 I have a BSC in Computer Science and Philosophy
+- Feel free to contact me at olivernl103@gmail.com!
 - Check out some of the things on my page, enjoy!!
 
 <!---
